@@ -20,7 +20,8 @@ To support and enhance My Gamer Vault we may work with a variety of third party 
 Your devices may offer settings that enable you to choose exactly the kinds of data that gets collected by the aforementioned third party services.
 We do not share any personally identifiable information to third parties.
 
-My Gamer Vault is available on Google Play 
+My Gamer Vault is available on Google Play
+
 Link: 
 
 ### Español
@@ -37,4 +38,5 @@ Cuando utiliza My Gamer Vault, todos los datos que ingrese se guardan de manera 
 Nuestra aplicación trabaja con redes publicitarias de terceros y servicios de análisis (colectivamente, "Proveedores de servicios de publicidad de terceros"). Estos servicios pueden recopilar y utilizar información que no sea de identificación personal sobre sus visitas y utilizar sitios web para brindarle anuncios y contenido adaptados a sus preferencias e intereses. En la configuración de sus dispositivos pueden ajustar exactamente los tipos de datos que obtienen los servicios de terceros antes mencionados. No compartimos ninguna información de identificación personal a terceros.
 
 My Gamer Vault está disponible en Google Play
+
 Enlace: 
