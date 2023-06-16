@@ -24,7 +24,7 @@ This app was my second project on Android Development, develop in a single month
 - [UCrop](https://github.com/Yalantis/uCrop): Image Cropping Library for Android.
 - [Gson](https://github.com/google/gson): A Java library that can be used to convert Java Objects into their JSON representation.
 - [Firebase](https://firebase.google.com/): For functionalities Crashlytics and Analytics.
-- 
+
 ## Google Play
 The application is available for download on Google Play. You can find it by searching for "My Gamer Vault" on the Google Play Store or by following this [link](https://play.google.com/store/apps/details?id=com.domberdev.mygamervault).
 
