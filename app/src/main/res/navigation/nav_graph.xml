@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/homeFragment">
+
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.domberdev.mygamervault.ui.view.HomeFragment"
+        android:label="fragment_home"
+        tools:layout="@layout/fragment_home" >
+        <action
+            android:id="@+id/homeFragment_to_addEditGameFragment"
+            app:destination="@id/addEditGameFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/homeFragment_to_profileFragment"
+            app:destination="@id/profileFragment"
+            app:enterAnim="@anim/slide_in_up"
+            app:popExitAnim="@anim/slide_out_down" />
+        <action
+            android:id="@+id/homeFragment_to_gameInfoFragment"
+            app:destination="@id/gameInfoFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+        <action
+            android:id="@+id/homeFragment_to_configurationFragment"
+            app:destination="@id/configurationFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.domberdev.mygamervault.ui.view.ProfileFragment"
+        android:label="fragment_profile"
+        tools:layout="@layout/fragment_profile" >
+        <action
+            android:id="@+id/profileFragment_to_gameInfoFragment"
+            app:destination="@id/gameInfoFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/addEditGameFragment"
+        android:name="com.domberdev.mygamervault.ui.view.AddEditGameFragment"
+        android:label="fragment_add_edit_game"
+        tools:layout="@layout/fragment_add_edit_game" />
+    <fragment
+        android:id="@+id/gameInfoFragment"
+        android:name="com.domberdev.mygamervault.ui.view.GameInfoFragment"
+        android:label="fragment_game_info"
+        tools:layout="@layout/fragment_game_info" >
+        <action
+            android:id="@+id/gameInfoFragment_to_addEditGameFragment"
+            app:destination="@id/addEditGameFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/configurationFragment"
+        android:name="com.domberdev.mygamervault.ui.view.ConfigurationFragment"
+        android:label="fragment_configuration"
+        tools:layout="@layout/fragment_configuration" >
+        <action
+            android:id="@+id/configurationFragment_to_licenseFragment"
+            app:destination="@id/licenseFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:popExitAnim="@anim/slide_out_left" />
+    </fragment>
+    <fragment
+        android:id="@+id/licenseFragment"
+        android:name="com.domberdev.mygamervault.ui.view.LicenseFragment"
+        android:label="fragment_license"
+        tools:layout="@layout/fragment_license" />
+</navigation>

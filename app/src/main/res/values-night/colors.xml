@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="status_bar_color">#1F1F1F</color>
+    <color name="color_primary">#121212</color>
+    <color name="ripple_effect">#808080</color>
+    <color name="game_status">#C8C3BC</color>
+    <color name="text_color">#FFFFFF</color>
+    <color name="dialog_text_color">#FFFFFF</color>
+    <color name="toolbar_icon">#FFFFFF</color>
+    <color name="background_color">#1F1F1F</color>
+</resources>

@@ -1,0 +1,6 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@color/cover_background" android:height="160dp" android:width="120dp"/>
+    <item android:drawable="@drawable/ic_videogame"
+        android:gravity="center"/>
+</layer-list>

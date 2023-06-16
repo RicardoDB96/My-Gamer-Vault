@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0D47A1</color>
+    <color name="blue_light">#5472D3</color>
+    <color name="blue_dark">#002171</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gray_bg">#1F1F1F</color>
+    <color name="gray">#121212</color>
+    <color name="gray_variant">#464646</color>
+    <color name="search_view_bg">#F2F2F2</color>
+    <color name="hint_color">#F0F0F0</color>
+    <color name="gray_toolbar">#757575</color>
+    <color name="status_bar_color">#FFFFFF</color>
+    <color name="cover_background">#808080</color>
+    <color name="color_primary">#121212</color>
+    <color name="ripple_effect">#B9B9B9</color>
+    <color name="game_status">#707070</color>
+    <color name="text_color">#000000</color>
+    <color name="dialog_text_color">#5472D3</color>
+    <color name="background_color_bottom_sheet">#FFFFFF</color>
+    <color name="background_color_bottom_sheet_night">#282828</color>
+    <color name="icon_color">#757575</color>
+    <color name="toolbar_icon">#757575</color>
+    <color name="background_color">#FFFFFF</color>
+</resources>

@@ -1,0 +1,95 @@
+<resources>
+    <!-- App -->
+    <string name="app_name" translatable="false">MGV</string>
+    <!-- Home Fragment -->
+    <string name="games_playing">Playing</string>
+    <string name="games_to_play">Want to Play</string>
+    <string name="games_played">Played</string>
+    <string name="no_games_found">No games found</string>
+    <!-- Add/Edit Fragment -->
+    <string name="add_game">Add Game</string>
+    <string name="game_cover">Game Cover</string>
+    <string name="game_title">Game title…</string>
+    <string name="game_status">Game Status</string>
+    <string name="want">Want</string>
+    <string name="playing">Playing</string>
+    <string name="played">Played</string>
+    <string name="game_description">Game description (Optional)…</string>
+    <string name="game_score">Game Score \n(Optional)</string>
+    <string name="platforms">Platforms</string>
+    <string name="select_platforms">Select Platforms</string>
+    <string name="select_platform">Select platform</string>
+    <string name="select_game_score">Select game score</string>
+    <string name="platform_pc" translatable="false">PC</string>
+    <string name="platform_xbox" translatable="false">Xbox</string>
+    <string name="platform_playstation" translatable="false">Playstation</string>
+    <string name="platform_nintendo" translatable="false">Nintendo</string>
+    <string name="platform_mobile">Mobile</string>
+    <string name="computer_icon">Computer Icon</string>
+    <string name="xbox_icon">Xbox Icon</string>
+    <string name="playstation_icon">Playstation Icon</string>
+    <string name="nintendo_icon">Nintendo Icon</string>
+    <string name="mobile_icon">Mobile Icon</string>
+    <string name="game_review">Opinion (Optional)</string>
+    <string name="write_game_review">Write a opinion…</string>
+    <string name="add">Add</string>
+    <string name="apply_changes">Save</string>
+    <string name="must_write_game_title">You must write a game title</string>
+    <string name="must_insert_cover_image">You must insert cover image</string>
+    <string name="must_select_state_game">You must select the state of the game</string>
+    <string name="select_least_one_platform">Select at least one platform</string>
+    <!-- Game Info Fragment -->
+    <string name="marked_favorite">Marked as favorite</string>
+    <string name="removed_favorites">Removed from favorites</string>
+    <string name="status">Status</string>
+    <string name="description">Description</string>
+    <string name="score">Score</string>
+    <string name="opinion">Opinion</string>
+    <!-- Profile Fragment -->
+    <string name="profile">Profile</string>
+    <string name="games_played_profile">Games Played</string>
+    <string name="wanted_games">Wanted Games</string>
+    <string name="favorite_game">Favorite\nGame</string>
+    <string name="favorites_games">Favorites Games</string>
+    <string name="games">Games</string>
+    <!-- Configuration Fragment -->
+    <string name="configuration">Configuration</string>
+    <string name="general">General</string>
+    <string name="theme">Theme</string>
+    <string name="light">Light</string>
+    <string name="dark">Dark</string>
+    <string name="system_default">System default</string>
+    <string name="open_source_libraries">Open source libraries</string>
+    <string name="about_my_gamer_vault">About My Gamer Vault</string>
+    <string name="about_content">\n<b>My Gamer Vault 1.1.1 (3)</b>. Manage your games in the easiest way possible.  \n \nDeveloped by <b>Ricardo Domínguez Bermejo.</b>\n\nReport bugs and request new features:\n<a href="mailto:rdominguezbermejo03@gmail.com">rdominguezbermejo03@gmail.com</a>\n</string>
+    <!-- Common Texts -->
+    <string name="logo">My Gamer Vault Logo</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="must_mark_game_played">You must mark the game as played</string>
+    <string name="media_access_denied">Media access denied</string>
+    <string name="edit_game_cover">Edit game cover</string>
+    <string name="edit_game">Edit game</string>
+    <string name="delete_game">Delete game</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="deleting">Deleting…</string>
+    <string name="delete_game_message">Are you sure to delete this game? You will lose all data related to this game</string>
+    <string name="save">Save</string>
+    <string name="username">Username</string>
+    <string name="profile_information">Profile Information</string>
+    <string name="change_profile_picture">Change profile picture</string>
+    <string name="write_username">Write a username</string>
+    <string name="edit_profile">Edit profile</string>
+    <string name="close">Close</string>
+    <string name="license">Licenses</string>
+    <string name="share">Share</string>
+    <!-- Platforms array -->
+    <string-array name="platforms">
+        <item>@string/platform_pc</item>
+        <item>@string/platform_xbox</item>
+        <item>@string/platform_playstation</item>
+        <item>@string/platform_nintendo</item>
+        <item>@string/platform_mobile</item>
+    </string-array>
+</resources>

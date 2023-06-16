@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/gameInfoFavorite"
+        android:title="@string/favorite_game"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_star_border"/>
+
+    <item
+        android:id="@+id/shareGameInfo"
+        android:title="@string/share"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_share"/>
+
+    <item
+        android:id="@+id/gameInfoEdit"
+        android:title="@string/edit_game"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_edit"/>
+
+    <item
+        android:id="@+id/gameInfoDelete"
+        android:title="@string/delete_game"
+        app:showAsAction="ifRoom"
+        android:icon="@drawable/ic_delete_toolbar"/>
+
+</menu>
